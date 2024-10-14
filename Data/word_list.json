@@ -1,0 +1,93 @@
+{
+  "words": {
+    "eca6347c-8f35-4df9-bbef-2c00ada01ead": {
+      "Term": "Juxtaposition",
+      "Type": "Language Technique (structural)",
+      "Definition": "When two opposite or contrasting ideas, characters, or images are placed next to each other to highlight their differences",
+      "Purpose": "To make a contrast more obvious, creating a stronger impact on the reader",
+      "Example": "A character who is calm standing next to a character who is angry",
+      "Effect": "Helps emphasize key themes, emotions, or conflicts in a text"
+    },
+
+    "aab37a1c-a778-483e-af4c-9c5131039418": {
+      "Term": "Dramatic Irony",
+      "Type": "Effect",
+      "Definition": "When the audience knows something that the characters in the story do not",
+      "Purpose": "To create tension, suspense, or humor, as the audience anticipates how the characters will react",
+      "Example": "In a horror movie, the audience knows the villain is hiding in the house, but the character doesn't",
+      "Effect": "Engages the audience, making them feel involved in the story and its unfolding events"
+    },
+
+    "c9a18d2c-7c98-4cfc-b1b5-e4f708e8b42c": {
+      "Term": "Alliteration",
+      "Type": "Language Technique (sound)",
+      "Definition": "The repetition of the same consonant sound at the beginning of closely connected words",
+      "Purpose": "To draw attention to particular phrases, creating rhythm or emphasis in a text. It can make descriptions more vivid or set a specific tone (e.g., soft or harsh)",
+      "Example": "The slippery snake slithered silently",
+      "Effect": "Engages the reader's auditory senses, reinforcing the mood or tone. Depending on the sounds used, it can make the language feel more fluid (using soft sounds) or harsh (using hard, abrupt sounds)"
+    },
+
+    "5efb0aee-479d-42c3-aef1-b06d69b82f3d": {
+      "Term": "Metaphor ",
+      "Type": "Language Technique (figurative)",
+      "Definition": "A figure of speech that describes an object, person, or action as something it is not, implying a comparison without using 'like' or 'as.'",
+      "Purpose": "To provide deeper meaning and create more vivid imagery. Metaphors make abstract ideas or emotions more concrete and relatable by comparing them to familiar things",
+      "Example": "'Time is a thief.'",
+      "Effect": "Engages the reader's imagination, allowing them to understand complex ideas in a more accessible way. Metaphors can enhance the emotional impact of a piece and create strong associations."
+    },
+
+    "e03c15e8-5498-40ba-aad7-c49f887d03d9": {
+      "Term": "Personification ",
+      "Type": "Language Technique (figurative)",
+      "Definition": "Giving human qualities or emotions to non-human objects, animals, or abstract ideas",
+      "Purpose": "To make descriptions more relatable by attributing human behavior to inanimate objects, bringing them to life in the reader's imagination",
+      "Example": "'The wind whispered through the trees.'",
+      "Effect": "Adds vivid imagery and emotional resonance to writing. Personification can make the environment feel more active and animate, enhancing mood"
+    },
+
+    "14a4a744-02c6-44fb-a546-7779afb0a5e7": {
+      "Term": "Hendiadys",
+      "Type": "Language Technique (rhetorical)",
+      "Definition": "A figure of speech where two nouns are joined by a conjunction (usually 'and') to express a single idea, where one noun typically modifies the other",
+      "Purpose": "To create emphasis or amplify an idea by using two distinct words instead of one modifier. It can add a sense of richness or intensity to the description",
+      "Example": "'Sound and fury' (instead of 'furious sound').",
+      "Effect": "Adds weight and grandeur to an expression, often found in Shakespearean and classical literature. It can also slow down the pace of a sentence, drawing attention to specific ideas or emotions."
+    },
+
+    "9bd485ef-8841-48fb-991e-9b694d9f24b7": {
+      "Term": "Anaphora",
+      "Type": "Language Technique (rhetorical)",
+      "Definition": "The repetition of a word or phrase at the beginning of successive clauses or sentences.",
+      "Purpose": "To create rhythm and emphasize a particular idea or emotion. Repetition reinforces the importance of a concept and can invoke a powerful emotional response in the reader or audience",
+      "Example": "'We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields.'",
+      "Effect": "Heightens emotional intensity and reinforces key ideas, often used in speeches and poetry to inspire or persuade"
+    },
+
+    "9614b083-e317-456b-ac51-0246d6141081": {
+      "Term": "Asyndeton",
+      "Type": "Language Technique (structural)",
+      "Definition": "The omission of conjunctions between words, phrases, or clauses",
+      "Purpose": "To create a fast-paced, rhythmic flow, often used to convey urgency or overwhelming force. It can also make the text more impactful or dramatic by allowing ideas to stand out on their own.",
+      "Example": "'I came, I saw, I conquered.'",
+      "Effect": "Creates a sense of rapid movement or intensity. The lack of conjunctions speeds up the reader's understanding, often making the tone more emphatic and assertive."
+    },
+
+    "0c77ea7a-a039-4fd5-859a-74ccd33b6794": {
+      "Term": "Polyptoton",
+      "Type": "Language Technique (rhetorical)",
+      "Definition": "The repetition of words derived from the same root, but with different endings or forms",
+      "Purpose": "To emphasize the versatility and depth of a word, revealing its different meanings or nuances. This technique helps explore an idea or concept from multiple angles within a single passage",
+      "Example": "'Love is not love which alters when it alteration finds.'",
+      "Effect": "Draws attention to the complex relationships between words, often creating a more layered, thoughtful meaning. It can also heighten the poetic or philosophical tone of the text."
+    },
+
+    "": {
+      "Term": "",
+      "Type": "",
+      "Definition": "",
+      "Purpose": "",
+      "Example": "",
+      "Effect": ""
+    }
+  }
+}
